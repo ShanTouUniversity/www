@@ -1,0 +1,32 @@
+# The URL the site will be built for
+base_url = "https://shantou.University"
+
+# page title
+title = "汕头大学・ShanTou.Unversity"
+
+# theme
+theme = "tabi"
+# git submodule add https://github.com/welpo/tabi.git themes/tabi
+# git submodule update --remote themes/tabi
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+# build_search_index = false
+
+# language
+default_language = "zh-Hans"
+
+[languages.en]
+title = "STU・ShanTou.Unversity"
+# build_search_index = true
+
+
+
+[markdown]
+highlight_code = true
+highlight_theme = "css"
+
+[extra]
+# Put all your custom variables here
