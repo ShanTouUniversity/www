@@ -7,11 +7,11 @@ template = "index.html"
 header = {title = "Hello! I'm STU ~", img = "Logo.png", img_alt = "ShanTou.Unversity" }
 +++
 
-This is the unofficial [STU・ShanTou.University](https://ShanTou.University). For the official Shantou University website, please visit: [STU.edu.cn](https://www.stu.edu.cn/).
+This is the unofficial [ST.U・ShanTou.University](https://ShanTou.University). For the official Shantou University website, please visit: [STU.edu.cn](https://www.stu.edu.cn/).
 
 All content on this site is hosted on *[Github](https://github.com/ShanTouUniversity)*. If you'd like to contribute to the development of this site, feel free to submit an [issue](https://github.com/ShanTouUniversity/www/issues) or a [pull request](https://github.com/ShanTouUniversity/www/pulls).
 
-For more ways to develop and utilize the [ShanTou.University](https://ShanTou.University) domain, please stay tuned for upcoming blog posts.
+Regarding the domain [ShanTou.University](https://ShanTou.University), for more development and utilization ideas, please follow the blog. If you have more suggestions, feel free to send an email to *[dev@ShanTou.University](mailto:dev@ShanTou.University)*.
 
 > 
 > PS： 本网站同时提供支持英文和中文，可以在右上角切换。

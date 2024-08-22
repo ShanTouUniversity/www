@@ -18,8 +18,11 @@ compile_sass = true
 # language
 default_language = "zh-Hans"
 
+taxonomies = [{name = "tags", feed = true}]
+
 [languages.en]
 title = "STU・ShanTou.Unversity"
+taxonomies = [{name = "tags", feed = true}]
 # build_search_index = true
 
 
