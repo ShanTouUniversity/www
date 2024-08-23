@@ -35,3 +35,10 @@ highlight_theme = "css"
 
 [extra]
 # Put all your custom variables here
+socials = [
+    { name = "github", url = "https://github.com/ShanTouUniversity", icon = "github" }
+]
+
+email = "ZGV2QFNoYW5Ub3UuVW5pdmVyc2l0eQ=="
+
+remote_repository_url = "https://github.com/ShanTouUniversity/www"
