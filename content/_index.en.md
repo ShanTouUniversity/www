@@ -1,10 +1,15 @@
 +++
-title = "Unofficial ShanTou University"
-paginate_by = 5 # Set the number of posts per page
-template = "index.html"
+title = "Latest posts"
+sort_by = "date"
+template = "section.html"
 
 [extra]
 header = {title = "Hello! I'm STU ~", img = "Logo.png", img_alt = "ShanTou.Unversity" }
+section_path = "blog/_index.en.md"
+max_posts = 4
+projects_path = "projects/_index.en.md"
+max_projects = 3
+show_projects_first = false
 +++
 
 This is the unofficial [ST.U・ShanTou.University](https://ShanTou.University). For the official Shantou University website, please visit: [STU.edu.cn](https://www.stu.edu.cn/).

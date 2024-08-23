@@ -1,5 +1,6 @@
 +++
 title = "Having a Personal Page on ST.U"
+weight = 0
 date = 2024-08-22
 updated = 2024-08-22
 description = "Create your own personal page on ST.U through a GitHub repository."

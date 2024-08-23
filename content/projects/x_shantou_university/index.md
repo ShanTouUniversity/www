@@ -1,5 +1,6 @@
 +++
 title = "在 ST.U 拥有一个个人页面"
+weight = 0
 date = 2024-08-22
 updated = 2024-08-22
 description = "通过 GitHub 仓库， 在 ST.U 开设自己的个人页面。"

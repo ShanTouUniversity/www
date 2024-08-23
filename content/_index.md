@@ -1,10 +1,15 @@
 +++
-title = "非官方头大"
-paginate_by = 5 # Set the number of posts per page
-template = "index.html"
+title = "Latest posts"
+sort_by = "date"
+template = "section.html"
 
 [extra]
 header = {title = "你好! 我是头大~", img = "Logo.png", img_alt = "ShanTou.Unversity" }
+section_path = "blog/_index.md"
+max_posts = 4
+projects_path = "projects/_index.md"
+max_projects = 3
+show_projects_first = false
 +++
 
 
