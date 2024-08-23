@@ -1,5 +1,5 @@
 +++
-title = "Latest posts"
+title = "最新博文"
 sort_by = "date"
 template = "section.html"
 
