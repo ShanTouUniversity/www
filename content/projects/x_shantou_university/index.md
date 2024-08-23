@@ -18,7 +18,7 @@ toc = true
 
 如果你想在 ST.U 开设一个自己的个人页面，请发邮件到 *[dev@ShanTou.University](mailto:dev@ShanTou.University)*，发送邮件时务必使用校友邮箱（如 10xxx@alumni.stu.edu.cn）或校内邮箱（如 10xxx@stu.edu.cn）。
 
-当你收到回信后，ST.U 的 [GitHub 仓库列表](https://github.com/orgs/ShanTouUniversity/repositories) 发现一个以你的邮箱用户名为名称的仓库，如*10xxx*。
+当你收到回信后，将能在 ST.U 的 [GitHub 仓库列表](https://github.com/orgs/ShanTouUniversity/repositories) 发现一个以你的邮箱用户名为名称的仓库，如*10xxx*。
 
 你需要使用一下任意一个框架，或者纯粹的 *HTML + CSS + JS* 制作一个你自己的静态页面（甚至是单页应用SPA）；当你上传后，你的页面不久就会自动部署，你就可以通过 *10xxx.ShanTou.University* 访问你的页面了。第一次生效可能会有点慢，但之后一旦更新 GitHub 仓库，页面便会自动部署。
 
