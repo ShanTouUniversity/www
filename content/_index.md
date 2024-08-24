@@ -4,7 +4,7 @@ sort_by = "date"
 template = "section.html"
 
 [extra]
-header = {title = "你好! 我是头大~", img = "Logo.png", img_alt = "ShanTou.Unversity" }
+header = {title = "你好! 我是 ST.U ~", img = "Logo.png", img_alt = "ShanTou.Unversity" }
 section_path = "blog/_index.md"
 max_posts = 4
 projects_path = "projects/_index.md"

@@ -2,7 +2,7 @@
 base_url = "https://shantou.University"
 
 # page title
-title = "汕头大学・ShanTou.Unversity"
+title = "汕头.大学・ShanTou.Unversity"
 
 # theme
 theme = "tabi"
@@ -22,7 +22,7 @@ generate_feeds = true
 taxonomies = [{name = "tags", feed = true}]
 
 [languages.en]
-title = "STU・ShanTou.Unversity"
+title = "ST.U・ShanTou.Unversity"
 generate_feeds = true
 taxonomies = [{name = "tags", feed = true}]
 # build_search_index = true

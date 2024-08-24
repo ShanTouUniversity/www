@@ -5,7 +5,7 @@ updated = 2024-08-23
 description = "ST.U 的是由 Zola + tabi 主题构建，然后托管在 Cloudfalre Pages 上的。"
 
 [taxonomies]
-tags = ["more"]
+tags = ["tech"]
 
 [extra]
 quick_navigation_buttons = true

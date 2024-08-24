@@ -4,7 +4,7 @@ sort_by = "date"
 template = "section.html"
 
 [extra]
-header = {title = "Hello! I'm STU ~", img = "Logo.png", img_alt = "ShanTou.Unversity" }
+header = {title = "Hello! I'm ST.U ~", img = "Logo.png", img_alt = "ShanTou.Unversity" }
 section_path = "blog/_index.en.md"
 max_posts = 4
 projects_path = "projects/_index.en.md"

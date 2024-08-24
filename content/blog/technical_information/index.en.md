@@ -5,7 +5,7 @@ updated = 2024-08-23
 description = "ST.U is built using Zola + the tabi theme, and hosted on Cloudflare Pages."
 
 [taxonomies]
-tags = ["more"]
+tags = ["tech"]
 
 [extra]
 quick_navigation_buttons = true
