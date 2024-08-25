@@ -12,11 +12,6 @@ quick_navigation_buttons = true
 toc = true
 +++
 
-That day, shortly after the Jieyang Alumni Association was established, I had a conversation with a 1998 alumnus. We talked about STU’s past, present, and trends; we also discussed the alumni and how STU utilizes alumni resources.
-
-
-The idea of creating a connection platform for STU alumni — both graduates and current students — came to me that evening.
-
 Aren’t the existing alumni associations and the various WeChat groups they’ve formed already a connection platform? Yes, but they’re not ideal.
 
 Imagine each alumni association as a class, with active and inactive members. The active ones are confined to their own class, and due to being part of a small active minority, they miss out on exchanges, inspiration, or sparks of ideas; the silent majority may remain quiet due to being introverted, unfamiliar with others, lacking like-minded companions, restricted by the narrow and limiting communication style of WeChat, or simply disliking the insincerity of superficial pleasantries, choosing instead to remain silent.
