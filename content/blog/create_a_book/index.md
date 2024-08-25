@@ -26,5 +26,5 @@ toc = true
     4. 用你的校友邮箱，把你想要的二级域名和上述地址发送给 `dev@ShanTou.University`；
     5. 收到回复后，便可以在你自己的后台操作，操作成功后就可以在 `xxx.ShanTou.University` 访问你的书籍了。
    
-如果你对上述所言不知所以，你也可以将你的书稿发送给 `dev@ShanTou.University`， ST.U 会使用 mdBook 制作成书籍后公开在 ST.U 的 GitHub 组织， 并分配一个适合的域名；然后你会收到邮件回复。如果你需要修订你的书籍，可以直接 Clone 那个仓库然后提PR，或者直接在对应仓库提 issue（最简单）。
+如果你对上述所言不知所以，你也可以将你的书稿发送给 [`dev@ShanTou.University`](mailto:dev@ShanTou.University)， ST.U 会使用 mdBook 制作成书籍后公开在 ST.U 的 GitHub 组织， 并分配一个适合的域名；然后你会收到邮件回复。如果你需要修订你的书籍，可以直接 Clone 那个仓库然后提PR，或者直接在对应仓库提 issue（最简单）。
 
