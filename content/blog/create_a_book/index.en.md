@@ -23,7 +23,7 @@ The most crucial step in publishing a book at ST.U is adding that CNAME DNS reco
    1. Choose a tool you are familiar with, such as mdBook, Zola, or another static page generator;
    2. Deploy your book to a service like GitHub Pages, Vercel, Netlify, or Cloudflare Pages;
    3. Record your book's address, such as `ShanTouUniversity.github.io/leptos_cn`;
-   4. Use your alumni email to send the desired subdomain and the above address to `dev@ShanTou.University`;
+   4. Use your alumni email to send the desired subdomain and the above address to [`dev@ShanTou.University`](mailto:dev@ShanTou.University);
    5. After receiving a reply, you can configure the backend, and once successful, your book will be accessible at `xxx.ShanTou.University`.
 
 If the above steps are unclear, you can also send your manuscript to [`dev@ShanTou.University`](mailto:dev@ShanTou.University), and ST.U will use mdBook to create and publish the book on ST.U's GitHub organization, assigning it a suitable domain. You will then receive an email reply. If you need to revise your book, you can directly clone the repository and submit a PR, or simply open an issue in the repository (the easiest method).
