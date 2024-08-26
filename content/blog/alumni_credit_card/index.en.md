@@ -56,10 +56,8 @@ The Alumni Dragon Card is a commemorative credit card jointly issued by the Shan
 1. Log in to the CCB website [creditcard.ccb.com](https://creditcard.ccb.com)
 2. Fill in the information online
 3. Enter the bank card transaction password and mobile phone verification code online
-
-After the application is approved, CCB will mail the card via registered mail.
-
-The customer activates and uses the card after receiving it.
+4. After the application is approved, CCB will mail the card via registered mail.
+5. The customer activates and uses the card after receiving it.
 
 #### (2) Online Application Process for "Customers Who Have Signed Up for CCB Online Banking":
 1. Log in to the CCB website [creditcard.ccb.com](https://creditcard.ccb.com)

@@ -57,10 +57,8 @@ social_media_card = "res/social.png"
 1. 登陆建行网站 [creditcard.ccb.com](https://creditcard.ccb.com)
 2. 在线填写资料
 3. 在线输入银行卡交易密码和手机的验证码
-
-审核通过后，建行通过挂号信方式寄卡
-
-客户收到卡片后，激活使用
+4. 审核通过后，建行通过挂号信方式寄卡
+5. 客户收到卡片后，激活使用
 
 #### （二）“已签约建行网银客户”在线申请流程：
 1. 登陆建行网站 [creditcard.ccb.com](https://creditcard.ccb.com)
