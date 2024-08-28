@@ -42,3 +42,6 @@ socials = [
 email = "ZGV2QFNoYW5Ub3UuVW5pdmVyc2l0eQ=="
 
 remote_repository_url = "https://github.com/ShanTouUniversity/www"
+
+mermaid = true 
+copy_button = true
