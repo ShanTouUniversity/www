@@ -1,0 +1,17 @@
+
+
+/* class name: workday
+ * color: lightcoral
+    
+ * class name: holiday
+ * color: lightgreen
+ 
+*/
+
+.workday {
+    background-color: lightcoral;
+}
+
+.holiday {
+    background-color: lightgreen;
+}
