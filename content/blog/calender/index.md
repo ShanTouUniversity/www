@@ -59,7 +59,7 @@ toc = true
             <td style="background-color: lightgreen;">11</td>
             <td style="background-color: lightgreen;">12</td>
             <td style="background-color: lightgreen;">13</td>
-            <td style="background-color: lightgreen;">14</td>
+            <td style="background-color: lightcoral;">调休</td>
             <td style="background-color: lightgreen;">15</td>
         </tr>
         <tr>
@@ -80,7 +80,7 @@ toc = true
             <td>26</td>
             <td>27</td>
             <td style="background-color: lightgreen;">28</td>
-            <td style="background-color: lightcoral;">29</td>
+            <td style="background-color: lightcoral;">调休</td>
         </tr>
         <tr>
             <td class="week">5</td>
@@ -100,7 +100,7 @@ toc = true
             <td>9</td>
             <td>10</td>
             <td>11</td>
-            <td style="background-color: lightcoral;">12</td>
+            <td style="background-color: lightcoral;">调休</td>
             <td style="background-color: lightgreen;">13</td>
         </tr>
         <tr>

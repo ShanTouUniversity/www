@@ -59,7 +59,7 @@ toc = true
             <td style="background-color: lightgreen;">11</td>
             <td style="background-color: lightgreen;">12</td>
             <td style="background-color: lightgreen;">13</td>
-            <td style="background-color: lightgreen;">14</td>
+            <td style="background-color: lightcoral;">14</td>
             <td style="background-color: lightgreen;">15</td>
         </tr>
         <tr>
