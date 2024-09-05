@@ -1,6 +1,6 @@
 +++
 title = "STU Alumni Association Contacts"
-weight = 0
+weight = 1
 date = 2024-08-23
 updated = 2024-08-23
 description = ""
