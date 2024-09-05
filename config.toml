@@ -3,6 +3,7 @@ base_url = "https://shantou.University"
 
 # page title
 title = "ST.U・ShanTou.Unversity"
+author = "ST.U"
 
 # theme
 theme = "tabi"
@@ -27,8 +28,6 @@ generate_feeds = true
 taxonomies = [{name = "tags", feed = true}]
 # build_search_index = true
 
-
-
 [markdown]
 highlight_code = true
 highlight_theme = "css"
@@ -47,3 +46,7 @@ remote_repository_url = "https://github.com/ShanTouUniversity/www"
 
 mermaid = true 
 copy_button = true
+show_author = true
+
+long_date_format = "%Y/%m/%d"
+short_date_format = "%Y/%m/%d"
