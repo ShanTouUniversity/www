@@ -2,7 +2,7 @@
 title = "Shantou University Academic Guide"
 weight = 0
 date = 2024-09-05
-updated = 2024-09-05
+updated = 2024-09-07
 description = "This page is compiled based on the official Shantou University Academic Guide. The currently publicly available version is for the Class of 2020."
 
 [taxonomies]
@@ -192,3 +192,11 @@ If the number of students selecting a course does not reach the lower limit set 
 Grades for courses selected through the credit system will be recorded. Courses for which students have passed assessments and obtained credits shall not be taken again. Grades for courses not selected through the credit system will not be recorded (courses for approved exchange programs, etc., shall be handled according to the course credit recognition regulations).
 
 **Article 11** These regulations will come into effect from the fall semester of 2019. The Academic Affairs Office is responsible for interpreting them.
+
+## Shantou University Undergraduate Course Selection and Textbook Ordering Guide
+
+> **ST.U Note:** This chapter from the 2020 Class Academic Guide is no longer applicable and will not be organized.
+>
+> The current course selection system website is [jw.stu.edu.cn](https://jw.stu.edu.cn)
+>
+> This section is under request for contributions. If you would like to contribute, please click the GitHub link at the bottom to submit a PR or send your guide to [dev@ShanTou.University](mailto:dev@ShanTou.University).
