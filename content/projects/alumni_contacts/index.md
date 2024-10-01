@@ -13,6 +13,7 @@ quick_navigation_buttons = true
 toc = true
 +++
 
+> PS: 此页面的更新需要你的帮助，如果你有发现信息有缺失或者错误，请到 GitHub 提 issue 或者发邮件给 [ST.U 维护者](mailto:dev@ShanTou.University)
 
 ## 一、汕头大学汕头市校友会
 

@@ -13,6 +13,7 @@ quick_navigation_buttons = true
 toc = true
 +++
 
+> PS:  Updates to this page require your help. If you find any missing or incorrect information, please submit an issue on GitHub or send an email to the [ST.U Maintainer](mailto:dev@ShanTou.University).
 
 ## 1. STU Shantou Alumni Association
 
