@@ -1,5 +1,5 @@
 +++
-title = "各学院中英文名称对照"
+title = "汕头大学各学院中英文名称对照"
 date = 2024-10-01
 updated = 2024-10-01
 description = ""

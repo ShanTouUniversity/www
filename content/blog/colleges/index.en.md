@@ -1,5 +1,5 @@
 +++
-title = "List of Colleges with English and Chinese Names"
+title = "List of Colleges at Shantou University: English and Chinese Names"
 date = 2024-10-01
 updated = 2024-10-01
 description = ""
