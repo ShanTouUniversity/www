@@ -2,7 +2,7 @@
 title = "STU Alumni Association Contacts"
 weight = 1
 date = 2024-08-23
-updated = 2024-08-23
+updated = 2024-10-01
 description = ""
 
 [taxonomies]

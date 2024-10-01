@@ -2,7 +2,7 @@
 title = "汕头大学各地校友会联系方式"
 weight = 1
 date = 2024-08-22
-updated = 2024-08-23
+updated = 2024-10-01
 description = ""
 
 [taxonomies]
