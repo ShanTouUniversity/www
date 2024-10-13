@@ -47,4 +47,8 @@ toc = true
 >
 > 作为父母实看到孩子自己的孩子一次又一次的被病魔折磨得不成样子，心都要碎了。这几年的治疗走下来身心俱疲，家徒四壁。现在真的是没有办法，万不得已向社会广大爱心人士寻求帮助，希望大家帮帮忙救救我家龙杭，万分感谢！
 
-轻松筹链接： <https://m.qsmutual.com/fund/22/detail?projuuid=58bfefff-0462-4c81-bd92-c5dedd3f7d01>
+- 轻松筹链接： <https://m.qsmutual.com/fund/22/detail?projuuid=58bfefff-0462-4c81-bd92-c5dedd3f7d01>
+
+- 患者父亲的银行账号：
+    中国农业银行账户：622848 0128050660272
+    户名：龙汝根

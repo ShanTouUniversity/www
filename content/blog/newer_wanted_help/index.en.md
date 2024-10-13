@@ -47,4 +47,9 @@ For this strong father and to save this young life, we earnestly ask for your he
 >
 > As parents, watching our daughter suffer from this illness time and again breaks our hearts. The past few years have drained us mentally and financially. We are now completely out of options and have no choice but to ask for help from society. We hope kind-hearted people can help save our daughter, Long Hang. We are immensely grateful!
 
-Crowdfunding link: <https://m.qsmutual.com/fund/22/detail?projuuid=58bfefff-0462-4c81-bd92-c5dedd3f7d01>
+- Crowdfunding link: <https://m.qsmutual.com/fund/22/detail?projuuid=58bfefff-0462-4c81-bd92-c5dedd3f7d01>
+
+- Patient's father's bank account:
+    Agricultural Bank of China Account: 622848 0128050660272
+    Account holder: 龙汝根
+
