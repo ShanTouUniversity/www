@@ -52,4 +52,3 @@ For this strong father and to save this young life, we earnestly ask for your he
 - Patient's father's bank account:
     Agricultural Bank of China Account: 622848 0128050660272
     Account holder: 龙汝根
-
