@@ -18,13 +18,14 @@ toc = true
 
 For [ShanTou.University](https://ShanTou.University), we refer to it as *[ST.U](https://ShanTou.University)*.
 
-If you want to create your own personal page on ST.U (here we use a personal page as an example), please send an email to *[dev@ShanTou.University](mailto:dev@ShanTou.University)*. When sending the email, be sure to use your alumni email (e.g., 10xxx@alumni.stu.edu.cn) or your campus email (e.g., 10xxx@stu.edu.cn).
+If you want to create your own personal page on ST.U (here we use a personal page as an example), please send an email to *[dev@ShanTou.University](mailto:dev@ShanTou.University)*. When sending the email, be sure to use your alumni email (e.g., <10xxx@alumni.stu.edu.cn>) or your campus email (e.g., <10xxx@stu.edu.cn>).
 
 After receiving a reply, you will find a repository in ST.U's [GitHub repository list](https://github.com/orgs/ShanTouUniversity/repositories) named after your email username, such as *10xxx* (or another reasonable name you applied for).
 
 You need to use any of the following frameworks, or simply *HTML + CSS + JS* to create your own static page (or even a single-page application, SPA). After you upload your work, it will automatically be deployed shortly (assuming you have successfully built it locally). You can then access your page at *10xxx.ShanTou.University*. The first deployment might take some time, but after that, any updates to the GitHub repository will automatically deploy the page.
 
 > Available frameworks (this page is built using [Zola](https://www.getzola.org/), recommended):
+>
 > - Analog
 > - Angular
 > - Astro
@@ -54,7 +55,6 @@ You need to use any of the following frameworks, or simply *HTML + CSS + JS* to 
 > - VitePress
 > - Vue
 > - Zola
-
 
 ## 2. Possible Application Scenarios
 
