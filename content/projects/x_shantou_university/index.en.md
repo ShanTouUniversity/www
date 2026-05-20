@@ -3,7 +3,7 @@ title = "Having a Dedicated Page on ST.U"
 weight = 0
 date = 2024-08-22
 updated = 2024-08-23
-description = "Create a dedicated page for yourself, your organization, project, club, or special topic on ST.U by creating a new GitHub repository."
+description = "Learn how to create a dedicated page on ST.U for yourself, your organization, or project. Use GitHub repositories and custom subdomains under ShanTou.University for your online presence."
 
 [taxonomies]
 tags = ["domain"]

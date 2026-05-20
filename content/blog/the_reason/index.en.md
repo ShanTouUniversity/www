@@ -2,7 +2,7 @@
 title = "The Origin of ST.U"
 date = 2024-08-24
 updated = 2024-08-24
-description = "The creation, existence, and purpose of ST.U."
+description = "The origin story of ST.U (ShanTou.University), an unofficial Shantou University alumni platform. Discover the vision behind building an open, collaborative community connecting all STU alumni worldwide."
 
 [taxonomies]
 tags = ["story"]

@@ -3,7 +3,7 @@ title = "毕业后校园网账号还能用吗？"
 date = 2025-06-29
 updated = 2025-06-29
 author = "ST.U"
-description = "解答汕头大学毕业生关于校园网账号在毕业后的使用问题，特别是校友邮箱的保留和使用方法。"
+description = "解答汕头大学毕业生关于校园网账号毕业后的使用问题，详细说明校友邮箱从 stu.edu.cn 转换到 alumni.stu.edu.cn 的方法及权限回收时间。"
 
 [taxonomies]
 tags = ["校园网","校友邮箱"]

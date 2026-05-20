@@ -3,7 +3,7 @@ title = "汕头大学 2024-2025 学年校历 (秋季学期)"
 weight = 0
 date = 2024-08-28
 updated = 2024-08-30
-description = ""
+description = "汕头大学 2024-2025 学年秋季学期校历，包含上课周次、考试时间、节假日安排和寒假时间等详细信息，供师生查阅。"
 
 [taxonomies]
 tags = ["calender"]

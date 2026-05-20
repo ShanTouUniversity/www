@@ -2,7 +2,7 @@
 title = "Alumni Returning to Campus"
 date = 2024-08-26
 updated = 2024-08-26
-description = "How alumni can apply to return to campus"
+description = "A complete guide for Shantou University alumni to apply for returning to campus. Includes step-by-step application process, required documents, contact info, and tips for a smooth visit."
 
 [taxonomies]
 tags = ["alumni"]

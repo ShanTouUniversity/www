@@ -2,7 +2,7 @@
 title = "技术细节"
 date = 2024-08-23
 updated = 2024-08-23
-description = "ST.U 的是由 Zola + tabi 主题构建，然后托管在 Cloudfalre Pages 上的。"
+description = "ST.U 的技术架构详解：网站由 Zola 静态站点生成器和 tabi 主题构建，托管在 Cloudflare Pages 上，支持中英文双语，了解背后的技术选型与部署流程。"
 
 [taxonomies]
 tags = ["tech"]

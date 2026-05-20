@@ -1,5 +1,6 @@
 +++
 title = "Latest posts"
+description = "ST.U (ShanTou.University) is an unofficial Shantou University alumni platform offering alumni connections, campus guides, academic resources, and community news for STU alumni worldwide."
 sort_by = "date"
 template = "section.html"
 

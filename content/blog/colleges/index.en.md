@@ -2,7 +2,7 @@
 title = "List of Colleges at Shantou University: English and Chinese Names"
 date = 2024-10-01
 updated = 2024-10-01
-description = ""
+description = "A complete bilingual list of Shantou University colleges with English and Chinese names, including College of Science, Medical College, College of Liberal Arts, and more."
 
 [taxonomies]
 tags = ["name", "table"]

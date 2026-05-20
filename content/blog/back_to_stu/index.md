@@ -2,7 +2,7 @@
 title = "校友返校"
 date = 2024-08-26
 updated = 2024-08-26
-description = "校友如何「申请」返校"
+description = "汕头大学校友返校申请完整指南，包含入校申请流程、所需资料、联系方式及注意事项，帮助校友顺利返回桑浦山或东海岸校区参观。"
 
 [taxonomies]
 tags = ["alumni"]

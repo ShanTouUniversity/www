@@ -2,7 +2,7 @@
 title = "Permanent Email Addresses of Shantou University Alumni Associations"
 date = 2024-10-01
 updated = 2024-10-01
-description = ""
+description = "Permanent email addresses for Shantou University alumni associations across China, covering 30+ chapters including Guangzhou, Shenzhen, Beijing, Shanghai, Hong Kong, and Macao."
 
 [taxonomies]
 tags = ["alumni", "table", "email", "contact"]

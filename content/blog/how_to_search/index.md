@@ -2,7 +2,7 @@
 title = "如何搜索 ShanTou.University 上的内容"
 date = 2024-10-13
 updated = 2024-10-13
-description = "在 ShanTou.University 上搜索内容的方法"
+description = "学习如何使用搜索引擎在 ShanTou.University 上查找内容，通过 site 语法实现全站搜索，支持 Bing 和 Google 搜索引擎的实用技巧。"
 
 [taxonomies]
 tags = ["搜索", "索引"]

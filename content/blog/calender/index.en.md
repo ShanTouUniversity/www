@@ -3,7 +3,7 @@ title = "Shantou University 2024-2025 Academic Calendar (Fall Semester)"
 weight = 0
 date = 2024-08-28
 updated = 2024-08-30
-description = ""
+description = "Shantou University 2024-2025 academic calendar for the fall semester, including class weeks, exam periods, public holidays, and winter break dates for students and faculty."
 
 [taxonomies]
 tags = ["calendar"]

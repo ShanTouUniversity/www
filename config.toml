@@ -3,6 +3,7 @@ base_url = "https://shantou.University"
 
 # page title
 title = "ST.U・ShanTou.Unversity"
+description = "ST.U（ShanTou.University）是汕头大学非官方校友平台，提供校友联络、校园资讯、返校指南、学业指南等一站式服务，致力于连接每一位汕大人，打造有温度的校友社区。"
 author = "ST.U"
 
 # theme

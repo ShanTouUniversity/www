@@ -2,7 +2,7 @@
 title = "汕头大学各学院中英文名称对照"
 date = 2024-10-01
 updated = 2024-10-01
-description = ""
+description = "汕头大学各学院中英文名称对照表，涵盖理学院、医学院、文学院、工学院、法学院、商学院等全部学院的中英文名称，方便师生和校友查阅。"
 
 [taxonomies]
 tags = ["name", "table"]

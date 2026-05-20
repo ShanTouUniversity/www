@@ -3,7 +3,7 @@ title = "Can I Still Use My Campus Network Account After Graduation?"
 date = 2025-06-29
 updated = 2025-06-29
 author = "ST.U"
-description = "Answering questions for Shantou University graduates about the use of their campus network accounts after graduation, especially regarding the retention and use of alumni email."
+description = "What happens to your Shantou University campus network account after graduation? Learn about the alumni email conversion from stu.edu.cn to alumni.stu.edu.cn and data backup tips."
 
 [taxonomies]
 tags = ["Campus Network", "Alumni Email"]

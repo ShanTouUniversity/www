@@ -3,7 +3,7 @@ title = "STU常用时间表"
 weight = 0
 date = 2024-08-28
 updated = 2024-08-30
-description = "上课时间表、考试时间表..."
+description = "汕头大学常用时间表汇总，包含详细的上课时间表（13个节次）和考试时间安排（5个场次），方便师生每日查询课程和考试时间。"
 
 [taxonomies]
 tags = ["timetable"]

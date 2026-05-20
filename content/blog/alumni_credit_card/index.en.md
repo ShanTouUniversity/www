@@ -2,7 +2,7 @@
 title = "How to Apply for the Alumni Dragon Card"
 date = 2024-08-26
 updated = 2024-08-28
-description = "The Shantou University Alumni Dragon Card is a credit card jointly issued by the Shantou University Alumni Association and China Construction Bank."
+description = "Complete guide to the Shantou University Alumni Dragon Card. Learn about this commemorative credit card issued by STU Alumni Association and CCB, including benefits, fees, and how to apply online or in person."
 
 [taxonomies]
 tags = ["alumni", "card"]

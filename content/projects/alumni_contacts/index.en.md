@@ -3,7 +3,7 @@ title = "STU Alumni Association Contacts"
 weight = 1
 date = 2024-08-23
 updated = 2024-10-01
-description = ""
+description = "Complete contact directory for Shantou University alumni associations worldwide, including WeChat IDs and phone numbers for over 30 chapters across China and North America."
 
 [taxonomies]
 tags = ["alumni", "contacts"]

@@ -2,7 +2,7 @@
 title = "Technical Details"
 date = 2024-08-23
 updated = 2024-08-23
-description = "ST.U is built using Zola + the tabi theme, and hosted on Cloudflare Pages."
+description = "Technical architecture of ST.U: built with the Zola static site generator and tabi theme, hosted on Cloudflare Pages with bilingual support for Chinese and English. Learn about the tech stack and deployment."
 
 [taxonomies]
 tags = ["tech"]

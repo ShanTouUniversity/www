@@ -3,7 +3,7 @@ title = "STU Common Timetables"
 weight = 0
 date = 2024-08-28
 updated = 2024-08-30
-description = "Class schedule, exam schedule..."
+description = "Shantou University common timetables including detailed class schedules (13 periods) and exam session times (5 sessions). A quick daily reference for students and faculty."
 
 [taxonomies]
 tags = ["timetable"]

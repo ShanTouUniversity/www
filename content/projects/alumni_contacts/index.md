@@ -3,7 +3,7 @@ title = "汕头大学各地校友会联系方式"
 weight = 1
 date = 2024-08-22
 updated = 2024-10-01
-description = ""
+description = "汕头大学各地校友会联系方式大全，包含广州、深圳、北京、上海、香港等三十多个地区校友会的联系人、电话和微信信息。"
 
 [taxonomies]
 tags = ["alumni", "contacts"]

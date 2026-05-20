@@ -1,5 +1,6 @@
 +++
 title = "最新博文"
+description = "ST.U（ShanTou.University）是汕头大学非官方校友平台，提供校友联络、校园资讯、返校指南、学业指南等一站式服务，致力于连接每一位汕大人。"
 sort_by = "date"
 template = "section.html"
 

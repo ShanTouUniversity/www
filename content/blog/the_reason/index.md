@@ -2,7 +2,7 @@
 title = "ST.U 缘起"
 date = 2024-08-24
 updated = 2024-08-24
-description = "ST.U 的产生、存在及其目的。"
+description = "ST.U 缘起：介绍 ShanTou.University 非官方校友平台的创建初衷和愿景，讲述如何通过开放协作连接每一位汕大校友，打造有温度的校友社区。"
 
 [taxonomies]
 tags = ["story"]

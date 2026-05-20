@@ -3,7 +3,7 @@ title = "在 ST.U 拥有一个专属页面"
 weight = 0
 date = 2024-08-22
 updated = 2024-08-23
-description = "通过新建 GitHub 仓库， 在 ST.U 开设个人、组织、项目、社团、专题等有中心的专属页面。"
+description = "了解如何在 ST.U 上创建个人、组织或项目的专属页面，通过 GitHub 仓库和自定义域名在 ShanTou.University 上拥有独立展示空间。"
 
 [taxonomies]
 tags = ["domain"]

@@ -2,7 +2,7 @@
 title = "How to Search Content on ShanTou.University"
 date = 2024-10-13
 updated = 2024-10-13
-description = "How to search for content on ShanTou.University"
+description = "Learn how to search for content on ShanTou.University using Bing and Google. Master the site: search syntax to find all indexed content across the ST.U platform."
 
 [taxonomies]
 tags = ["Search", "Index"]

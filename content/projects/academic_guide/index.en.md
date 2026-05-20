@@ -3,7 +3,7 @@ title = "Shantou University Academic Guide"
 weight = 0
 date = 2024-09-05
 updated = 2024-09-07
-description = "This page is compiled based on the official Shantou University Academic Guide. The currently publicly available version is for the Class of 2020."
+description = "Shantou University undergraduate academic guide compiled from the official 2020 edition. Covers study duration, course system, course selection rules, program transfers, minors, and graduation requirements."
 
 [taxonomies]
 tags = ["guide", "academic"]

@@ -2,7 +2,7 @@
 title = "汕头大学各地校友分会永久工作邮箱"
 date = 2024-10-01
 updated = 2024-10-01
-description = ""
+description = "汕头大学各地校友分会永久工作邮箱汇总，涵盖广州、深圳、珠海、北京、上海、香港、澳门等30多个校友分会的联系邮箱地址。"
 
 [taxonomies]
 tags = ["alumni", "table", "email", "contact"]

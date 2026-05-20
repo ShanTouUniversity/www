@@ -2,7 +2,7 @@
 title = "在 ST.U 发布一本书"
 date = 2024-08-25
 updated = 2024-08-25
-description = "使用 mdBook 在 ShanTou.University 发布一本开源的书籍。"
+description = "了解如何在 ShanTou.University 使用 mdBook 发布开源书籍，包含完整流程：从书籍制作、GitHub 部署、DNS 配置到自定义域名的绑定。"
 
 [taxonomies]
 tags = ["book", "domain"]
