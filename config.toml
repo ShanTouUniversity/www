@@ -29,9 +29,9 @@ generate_feeds = true
 taxonomies = [{name = "tags", feed = true}]
 # build_search_index = true
 
-[markdown]
-highlight_code = true
-highlight_theme = "css"
+[markdown.highlighting]
+style = "class"
+theme = "ayu-dark"
 
 [extra]
 favicon = "logo.webp"

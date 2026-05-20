@@ -2,7 +2,7 @@
 set -e
 
 # 为 Zola 版本和资产名称定义变量
-ZOLA_VERSION="v0.20.0"
+ZOLA_VERSION="v0.22.1"
 ARCH="x86_64-unknown-linux-gnu"
 ASSET_NAME="zola-${ZOLA_VERSION}-${ARCH}.tar.gz"
 DOWNLOAD_URL="https://github.com/getzola/zola/releases/download/${ZOLA_VERSION}/${ASSET_NAME}"
