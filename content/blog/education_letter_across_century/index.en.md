@@ -57,7 +57,7 @@ spanning time and space.
 
 In this Qiaopi treasured by the Shantou City Archives (see image below), Xu Yuqian could barely contain his excitement upon learning that Shantou University had been approved for establishment: "After the peace, Liu Houwu came to Thailand and campaigned for the establishment of Chaoshan University, but it was stillborn. Today's establishment is truly the fortune of our Chaoshan people." These few words capture the regret and hope of a generation of Chaoshan people.
 
-![Qiaopi Archives](./res/01.gif)
+![Qiaopi Archives](./res/qiaopi_letter.jpeg)
 
 Liu Houwu, mentioned in this Qiaopi, was a native of Guliao, Chaoyang, Guangdong. In his early years, he joined Sun Yat-sen's Tongmenghui and participated in the Guangzhou Huanghuagang Uprising. He later served as a Supervisory Committee member of the National Government's Control Yuan and as the Supervisor of Guangdong and Guangxi. Despite his high position, he always cared deeply about education in his hometown. After the victory of the War of Resistance Against Japan, witnessing the plight of young people in the Chaoshan region with no access to education, he resolutely resigned from his post as Supervisor of Guangdong and Guangxi in November 1947, dedicating himself fully to the筹备 of Chaozhou University and personally serving as the chairman of the preparatory committee. For this university, he traveled across the Chaoshan region, Hong Kong, and Thailand, fundraising from overseas Chinese. Countless overseas Chaoshan people were moved by his sincerity and generously donated. However, due to turbulent times and war, the Chaozhou University, which was on the verge of establishment, was ultimately "stillborn," becoming the greatest regret of Liu Houwu's life.
 
